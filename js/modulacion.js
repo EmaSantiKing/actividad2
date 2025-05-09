@@ -4,9 +4,9 @@ document.addEventListener("DOMContentLoaded", () => {
         <input type="text" placeholder="Buscar..." id="busqueda">
         <nav>
           <ul>
-            <li><a href="index.html">Juegos</a></li>
-            <li><a href="pagina1.html">Consolas</a></li>
-            <li><a href="pagina2.html">Periféricos</a></li>
+            <li>Juegos</li>
+            <li>Consolas</li>
+            <li>Periféricos</li>
           </ul>
         </nav>
       </header>
